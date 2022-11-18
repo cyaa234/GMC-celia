@@ -1,4 +1,4 @@
 ../reltive  path  ---> selon ou je suis 
 pseudo path  ---> selon le 
 ./ on est dans le mm repertoire
-../ n3awdo netal3o
+../ n3awdo netal3oE:\documents\essaye de git
